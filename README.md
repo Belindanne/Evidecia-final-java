@@ -24,3 +24,4 @@ Documentation
 
 # IMAGENES DEL PROYECTO
 ![diagrama de flujo evidencia](https://user-images.githubusercontent.com/91292743/144768901-cc3d9733-7270-49b4-9d31-855f8cdd02e9.png)
+![EVIDENCIA (1)](https://user-images.githubusercontent.com/91292743/144776902-b0d692bd-6cce-4d3f-9d0d-9f2f5b03d176.png)
