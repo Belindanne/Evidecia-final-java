@@ -1,1 +1,0 @@
-{"id_cita":5963,"motivo_cita":"Fiebre y escalofrios","fecha_cita":"24/02/2022","id_medico":1470,"id_paciente":1508}
